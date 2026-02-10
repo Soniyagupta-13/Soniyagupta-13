@@ -7,7 +7,8 @@ While I’m not working full-time yet, I’m consistently learning, practicing, 
 Here you’ll find:
 - 📊 Projects I’m building as part of my learning journey  
 - 🧠 Concepts and tools I’m exploring through practice  
--🚀 Translating raw data into actionable business insights
+- 🚀 Translating raw data into actionable business insights
+
 
 This GitHub reflects my growth — one commit, one project, one lesson at a time.
 
