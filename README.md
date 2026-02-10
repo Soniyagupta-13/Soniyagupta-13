@@ -1,8 +1,8 @@
 ## 🌸Hey there,I'm so glad you're here!
 Welcome to my little corner of Github!
 
-I’m a curious learner currently focused on building my skills and creating hands-on projects.
-While I’m not working full-time yet, I’m consistently learning, practicing, and improving every day.
+I’m a curious learner currently focused on growing in my career, picking up new tech skills and creating hands-on projects.
+ I turn curiosity into commits and ideas into projects..
 
 Here you’ll find:
 - 📊 Projects I’m building as part of my learning journey  
