@@ -1,4 +1,4 @@
-🌸Hey there, I'm so glad you're here!
+## 🌸 Hey there, I'm so glad you're here:
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soniyaguptaoffical) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guptasoniya1309@gmail.com) 
 
